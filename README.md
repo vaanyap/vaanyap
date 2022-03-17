@@ -34,8 +34,8 @@
 <h3 align = "left" > 🛠Tools I have used: </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/-Firebase-blue?logo=firebase&logoColor=#FFCA28&style=flat" alt="firebase" height="30"/> 
- <img src="https://img.shields.io/badge/-Photoshop-white?logo=adobe%20photoshop&logoColor=#31A8FF&style=flat" alt="photoshop" width="30"/> 
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=#31A8FF&style=flat" alt= "vscode" width="30"/>
+ <img src="https://img.shields.io/badge/-Photoshop-white?logo=adobe%20photoshop&logoColor=#31A8FF&style=flat" alt="photoshop" height="30"/> 
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=#31A8FF&style=flat" alt= "vscode" height="30"/>
  
 
  </p>
