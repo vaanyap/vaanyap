@@ -14,17 +14,17 @@
   
 <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow&style=flat" alt="javascript" height="30"/> </a>
 <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=blue&style=flat" alt="python" height="30"/> </a> 
-<img src="https://img.shields.io/badge/-Arduino-white?logo=ARDUINO&logoColor=#00979D&style=flat" alt="arduino" height="40"/> </a> 
-<img src="https://img.shields.io/badge/-HTML5-blue?logo=html5&logoColor=#E34F26&style=flat" alt="html5" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/> </a> 
+<img src="https://img.shields.io/badge/-Arduino-white?logo=ARDUINO&logoColor=#00979D&style=flat" alt="arduino" height="30"/> </a> 
+<img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=#E34F26&style=flat" alt="html5" height="30"/> </a>
+<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=#1572B6&style=flat" alt="css3" height="30"/> </a>
+<img src="https://img.shields.io/badge/-C++-f54997?logo=cplusplus&logoColor=#1572B6&style=flat" alt="cplusplus" height="30"/> </a> 
 </p>
  </p>
  
  
 <h3 align = "left"> 🌟Favourite libraries </h3>
 <p align="left">
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="reactnative" height="30"/> </a>
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat" alt="reactnative" height="30"/> </a>
 <img width="120" height = "30" alt="matter.js" src="https://user-images.githubusercontent.com/71617367/158858426-62ee1674-8817-4eac-8fc1-1ad5217bab09.png">
 <img height="30" alt="npm" src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=red&style=flat">
 
@@ -33,8 +33,8 @@
  
 <h3 align = "left" > 🛠Tools I have used: </h3>
 <p align="left">
-<img src="https://img.shields.io/badge/-firebase-blue?logo=firebase&logoColor=#FFCA28&style=flat" alt="firebase" height="40"/> </a>  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<img src="https://img.shields.io/badge/-firebase-blue?logo=firebase&logoColor=#FFCA28&style=flat" alt="firebase" height="30"/> </a>  
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="40"/> </a> 
 
  </p>
   
