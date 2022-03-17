@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning **react-native and c++**
 
 <br>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical" alt="vaanyap"> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical" alt="vaanyap"> 
 <br>
 <br>
 
