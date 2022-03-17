@@ -25,8 +25,8 @@
 <h3 align = "left"> Favourite libraries </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="reactnative" height="40"/> </a>
-<img width="110" height = "30" alt="matter.js" src="https://user-images.githubusercontent.com/71617367/158858426-62ee1674-8817-4eac-8fc1-1ad5217bab09.png">
-<img width="90" height="30" alt="npm" src="https://user-images.githubusercontent.com/71617367/158862885-3b759442-e315-43fe-aa8f-62c4d06cb312.png">
+<img width="110" height = "40" alt="matter.js" src="https://user-images.githubusercontent.com/71617367/158858426-62ee1674-8817-4eac-8fc1-1ad5217bab09.png">
+<img height="40" alt="npm" src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=red&style=flat">
 
 
 </p>
