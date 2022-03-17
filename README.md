@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hello 👋, I'm Vaanya Puri</h1>
 <h3 align="center">⭐️Hi, I'm Vaanya, a 17-year-old developer passionate about emerging technologies and bringing joy to others from my work. To accomplish this goal, I started making games and still am working on making a blockchain.</h3>
 
