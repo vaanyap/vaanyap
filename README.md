@@ -1,9 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vaanya Puri</h1>
 <h3 align="center">⭐️Hi, I'm Vaanya, a 17-year-old developer passionate about emerging technologies and bringing joy to others from my work. To accomplish this goal, I started making games and still am working on making a blockchain.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaanyap" alt="vaanyap" /></a> </p>
 
 - 🌱 I’m currently learning **react-native and c++**
 
@@ -21,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaanyap&show_icons=true&locale=en&layout=compact" alt="vaanyap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&locale=en" alt="vaanyap" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaanyap&" alt="vaanyap" /></p>
