@@ -21,7 +21,7 @@
 <h3 align = "left"> Favourite libraries </h3>
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<img width="90" height = "30" alt="matter.js" src="https://user-images.githubusercontent.com/71617367/158858426-62ee1674-8817-4eac-8fc1-1ad5217bab09.png">
+<img width="95" height = "30" alt="matter.js" src="https://user-images.githubusercontent.com/71617367/158858426-62ee1674-8817-4eac-8fc1-1ad5217bab09.png">
 
 
 </p>
