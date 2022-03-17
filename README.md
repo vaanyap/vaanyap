@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hello 👋, I'm Vaanya Puri</h1>
-<h3 align="center">⭐️Hi, I'm Vaanya, a 17-year-old developer passionate about emerging technologies and bringing joy to others from my work. To accomplish this goal, I started making games and still am working on making a blockchain.</h3>
+<h3 align="center">⭐️Hi, I'm Vaanya, a 17-year-old developer passionate about emerging technologies and bringing joy to others from my work. To accomplish this goal, I make games and I am currently working on making a blockchain along with a few side projects.</h3>
 
 - 🌱 I’m currently learning **react-native and c++**
 
@@ -13,8 +13,8 @@
 <br>
 <br>
 
-<div>
-<h3 align="left">Languages I know:</h3>
+<div id="stuff" align = "left">
+<h3 align="left">Languages I have used:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -34,14 +34,14 @@
 
 
 </p>
-  </div>
-  
+ 
 <h3 align = "left" > Tools I have used: </h3>
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
  </p>
-
+ </div>
+  
 
 
