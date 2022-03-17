@@ -37,5 +37,5 @@
 
 <br>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&theme=dark&show_icons=true" alt="vaanyap"> </p>
-![Vaanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical" alt="vaanyap"> </p>
+
