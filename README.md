@@ -8,8 +8,6 @@
 
 <br>
 
-<br>
-<br>
 
 <h3 align="left">Languages I have used:</h3>
 <p align="left">
