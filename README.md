@@ -36,5 +36,5 @@
  </p>
 
 <br>
-![Vaanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaanyap&theme=dark&show_icons=true)
+<a href ="https://github-readme-stats.vercel.app/api?username=vaanyap&theme=dark&show_icons=true"> </a>
 ![Vaanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical)
