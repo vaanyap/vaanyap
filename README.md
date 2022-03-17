@@ -7,13 +7,12 @@
 - 🌱 I’m currently learning **react-native and c++**
 
 <br>
-<p align="center">
+<h3 align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical" alt ="vaanyap">  
-</p>
+</h3>
 <br>
 <br>
 
-<div id="stuff" align = "left">
 <h3 align="left">Languages I have used:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -41,7 +40,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
  </p>
- </div>
   
 
 
