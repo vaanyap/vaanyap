@@ -36,4 +36,5 @@
  </p>
 
 <br>
+![Vaanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaanyap&theme=dark&show_icons=true)
 ![Vaanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical)
