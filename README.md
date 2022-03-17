@@ -6,7 +6,10 @@
 
 - 🌱 I’m currently learning **react-native and c++**
 
-
+<br>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical" alt="vaanyap"> </p>
+<br>
 
 <h3 align="left">Languages I know:</h3>
 <p align="left">
@@ -35,7 +38,5 @@
 
  </p>
 
-<br>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical" alt="vaanyap"> </p>
+
 
