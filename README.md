@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <img width="100" height = "30" alt="matter.js" src="https://user-images.githubusercontent.com/71617367/158858426-62ee1674-8817-4eac-8fc1-1ad5217bab09.png">
+<img width="74" height="40" alt="npm" src="https://user-images.githubusercontent.com/71617367/158862885-3b759442-e315-43fe-aa8f-62c4d06cb312.png">
 
 
 </p>
@@ -38,6 +39,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://instagram.com/vaanya_p13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaanya_p13" height="30" width="40" /></a>
-<a href="https://discord.gg/#6905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6905" height="30" width="40" /></a>
-</p>
+
