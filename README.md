@@ -10,7 +10,7 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical" alt="vaanyap"> </p>
 <br>
-
+<br>
 <h3 align="left">Languages I know:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
