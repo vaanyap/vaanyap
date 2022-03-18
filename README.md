@@ -9,7 +9,7 @@
 <br>
 
 
-<h3 align="left">Languages I have used :</h3>
+<h3 align="left">🦋Languages I have used :</h3>
 <p align="left">
   
 <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow&style=flat" alt="javascript" height="25"/> 
