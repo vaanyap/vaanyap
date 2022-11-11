@@ -36,7 +36,8 @@
 <img src="https://img.shields.io/badge/-Firebase-blue?logo=firebase&logoColor=#FFCA28&style=flat" alt="firebase" height="25"/> 
    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=#31A8FF&style=flat" alt= "vscode" height="25"/>
  <img src="https://img.shields.io/badge/-Photoshop-white?logo=adobe%20photoshop&logoColor=#31A8FF&style=flat" alt="photoshop" height="25"/> 
-  <img src ="https://camo.githubusercontent.com/75251632e9c74475dfb9c8a4f17b34792226384fe87ff456cb8603b4e94a15bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465" alt = "Anaconda" height= "25">
+  <img src ="https://camo.githubusercontent.com/75251632e9c74475dfb9c8a4f17b34792226384fe87ff456cb8603b4e94a15bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465" alt = "Jupyter" height= "25">
+  <img src = "https://camo.githubusercontent.com/c2800672ad04fe21e9c464eadf19e4528d580d9165b2c685fa3eb8f547620c40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e64612d333432423032392e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465" alt = "Anaconda" height ="25">
  
  
 
