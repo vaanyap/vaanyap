@@ -14,10 +14,11 @@
   
 <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow&style=flat" alt="javascript" height="25"/> 
 <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=blue&style=flat" alt="python" height="25"/> 
-<img src="https://img.shields.io/badge/-Arduino-white?logo=ARDUINO&logoColor=#00979D&style=flat" alt="arduino" height="25"/>  
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" height="25"/>  
 <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=#E34F26&style=flat" alt="html5" height="25"/>
 <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=#1572B6&style=flat" alt="css3" height="25"/> 
 <img src="https://img.shields.io/badge/-C++-f54997?logo=cplusplus&logoColor=#1572B6&style=flat" alt="cplusplus" height="25"/> 
+  
 </p>
  </p>
  
