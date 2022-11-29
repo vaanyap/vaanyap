@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat" alt="reactnative" height="25"/> 
 <img width="120" height = "25" alt="matter.js" src="https://user-images.githubusercontent.com/71617367/158858426-62ee1674-8817-4eac-8fc1-1ad5217bab09.png">
 <img height="25" alt="npm" src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=red&style=flat">
+<img height="25" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 
 
 </p>
