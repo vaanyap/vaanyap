@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages I have worked with :</h3>
 <p align="left">
- <img src="https://img.shields.io/badge/-Microsoft Access-white?logo=access&logoColor=red&style=flat" alt="access" height="25"/> 
+ 
 <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow&style=flat" alt="javascript" height="25"/> 
 <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=blue&style=flat" alt="python" height="25"/> 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" height="25"/>  
@@ -35,6 +35,7 @@
  
 <h3 align = "left" > 🛠Tools I have worked with: </h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/-MicrosoftAccess-white?logo=access&logoColor=#A4373A&style=flat" alt="access" height="25"/> 
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" height="25"/> 
    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=#31A8FF&style=flat" alt= "vscode" height="25"/>
  <img src="https://img.shields.io/badge/-Photoshop-white?logo=adobe%20photoshop&logoColor=#31A8FF&style=flat" alt="photoshop" height="25"/> 
