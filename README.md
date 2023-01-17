@@ -4,7 +4,7 @@
 <h1 align="center">Hello 👋, I'm Vaanya Puri</h1>
 <h4 align="left">⭐️Hi, I'm Vaanya, a developer passionate about emerging technologies and bringing joy to others through my work. To accomplish this goal, I make games 🕹, and I am currently working on designing a blockchain ⛓ along with a few side projects.</h4>
 
-- 🌱 I’m currently trying to keep up in uni 🙃
+- 🌱 I’m currently trying to keep up in uni and learning java!🙃
 
 <br>
 
