@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/MediaPipe-009C95?style=flat&logo=mediapipe&logoColor=white" height="25"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/OpenCV">
+
 </p>
 
 <h3 align="left">Tools & Platforms:</h3>
@@ -32,9 +34,6 @@
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" height="25"/>
 <img src="https://img.shields.io/badge/-Firebase-ffca28?logo=firebase&logoColor=black&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-Hyperledger-009CDE?style=flat&logo=hyperledger&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" height="25"/>
 </p>
 
 <h3 align="left">Featured Projects:</h3>
@@ -44,6 +43,3 @@
 </ul>
 
 <br>
-<h3 align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vaanyap&show_icons=true&theme=radical" alt="vaanyap">
-</h3>
