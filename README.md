@@ -31,8 +31,9 @@ I enjoy building projects that combine backend, AI, and real-world applications.
 <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 ---
-<p>
+
 ### ⚙️ Tools & Platforms
+<p>
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
@@ -55,7 +56,15 @@ I enjoy building projects that combine backend, AI, and real-world applications.
 ---
 
 ### 📫 Contact Me
+### 📫 Connect with Me
 <p>
-[LinkedIn](https://linkedin.com/in/vaanyap) | [Email](mailto:vaanyapuri1307@gmail.com) | [GitHub](https://github.com/vaanyap)
+<a href="https://linkedin.com/in/vaanyap">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+</a>
+<a href="mailto:vaanyapuri1307@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+</a>
+<a href="https://github.com/vaanyap">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+</a>
 </p>
----
