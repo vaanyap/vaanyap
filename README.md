@@ -32,30 +32,15 @@ I enjoy building projects that combine backend, AI, and real-world applications.
 </p>
 ---
 
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" height="25"/>
-</p>
----
-
 ### 🌟 Featured Projects
 
 **MotionMate** – AI-powered, multi-threaded application for real-time video inference.  
-- Built for low-latency pose evaluation and personalized health feedback.  
-- Uses Python, OpenCV, MediaPipe, and Google Gemini API.  
-- Optimized concurrent processing to reduce latency by 99%.
+
 
 **Blockchain E-Voting System** – Secure backend and admin dashboard for student elections.  
-- Developed encrypted vote transfers, role-based access, and immutable vote storage.  
-- Backend powered by Node.js, Express.js, MongoDB Atlas, JWT, bcrypt, and React.  
-- Ensures anonymity, prevents double voting, and provides real-time vote tallying.
 
 ---
 
-### 📫 Contact Me
 ### 📫 Connect with Me
 <p>
 <a href="https://linkedin.com/in/vaanyap">
