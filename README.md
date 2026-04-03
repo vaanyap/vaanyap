@@ -9,8 +9,6 @@ I enjoy building projects that combine backend, AI, and real-world applications.
 
 🌱 I’m keeping up with university coursework and diving deeper into large language models (LLMs) and agentic AI.
 
----
-
 ### 💻 Languages I Work With
 <p>
 <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=blue&style=flat" height="25"/> 
@@ -20,7 +18,6 @@ I enjoy building projects that combine backend, AI, and real-world applications.
 <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=#1572B6&style=flat" height="25"/> 
 <img src="https://img.shields.io/badge/-C++-f54997?logo=cplusplus&logoColor=#1572B6&style=flat" height="25"/> 
 </p>
----
 
 ### 🛠 Libraries & Frameworks
 <p>
@@ -28,18 +25,12 @@ I enjoy building projects that combine backend, AI, and real-world applications.
 <img height="25" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img height="25" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img height="25" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
----
 
 ### 🌟 Featured Projects
-
 **MotionMate** – AI-powered, multi-threaded application for real-time video inference.  
-
-
 **Blockchain E-Voting System** – Secure backend and admin dashboard for student elections.  
 
----
 
 ### 📫 Connect with Me
 <p>
