@@ -12,30 +12,32 @@ I enjoy building projects that combine backend, AI, and real-world applications.
 ---
 
 ### 💻 Languages I Work With
+<p>
 <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=blue&style=flat" height="25"/> 
 <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow&style=flat" height="25"/> 
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=#E34F26&style=flat" height="25"/> 
 <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=#1572B6&style=flat" height="25"/> 
 <img src="https://img.shields.io/badge/-C++-f54997?logo=cplusplus&logoColor=#1572B6&style=flat" height="25"/> 
-
+</p>
 ---
 
 ### 🛠 Libraries & Frameworks
+<p>
 <img width="120" height="25" alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4059AD?style=for-the-badge&logo=mediapipe&logoColor=white"/>
 <img height="25" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img height="25" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img height="25" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+</p>
 ---
-
+<p>
 ### ⚙️ Tools & Platforms
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" height="25"/>
-
+</p>
 ---
 
 ### 🌟 Featured Projects
@@ -53,6 +55,7 @@ I enjoy building projects that combine backend, AI, and real-world applications.
 ---
 
 ### 📫 Contact Me
+<p>
 [LinkedIn](https://linkedin.com/in/vaanyap) | [Email](mailto:vaanyapuri1307@gmail.com) | [GitHub](https://github.com/vaanyap)
-
+</p>
 ---
